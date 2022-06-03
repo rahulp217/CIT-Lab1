@@ -1,0 +1,13 @@
+total 0
+drwxr-xr-x@ 2 rahulpaudel  staff   64 Apr  5 15:54 Career
+drwxr-xr-x@ 2 rahulpaudel  staff   64 Apr  5 15:54 Docs
+drwxr-xr-x@ 6 rahulpaudel  staff  192 Apr  5 15:54 InClassDemos
+-rw-r--r--  1 rahulpaudel  staff    0 Apr  5 15:58 lab-01-folders.txt
+drwxr-xr-x@ 8 rahulpaudel  staff  256 Apr  5 15:57 p1
+drwxr-xr-x@ 2 rahulpaudel  staff   64 Apr  5 15:54 p2
+drwxr-xr-x@ 2 rahulpaudel  staff   64 Apr  5 15:54 p3
+drwxr-xr-x@ 2 rahulpaudel  staff   64 Apr  5 15:54 p4
+drwxr-xr-x@ 2 rahulpaudel  staff   64 Apr  5 15:54 p5
+drwxr-xr-x@ 2 rahulpaudel  staff   64 Apr  5 15:54 p6
+drwxr-xr-x@ 2 rahulpaudel  staff   64 Apr  5 15:54 p7
+drwxr-xr-x@ 2 rahulpaudel  staff   64 Apr  5 15:54 p8
